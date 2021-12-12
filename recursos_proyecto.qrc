@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="LOGOS">
+    <file>Imagenes/banner.png</file>
+    <file>Imagenes/F.png</file>
+    <file>Imagenes/uat-logo.png</file>
+  </qresource>
+  <qresource prefix="OTRO">
+    <file>Imagenes/RICK.png</file>
+  </qresource>
+  <qresource prefix="BIRD">
+    <file>Imagenes/b1.png</file>
+    <file>Imagenes/b2.png</file>
+    <file>Imagenes/b3.png</file>
+    <file>Imagenes/b4.png</file>
+    <file>Imagenes/b5.png</file>
+  </qresource>
+  <qresource prefix="EVO">
+    <file>Imagenes/I.png</file>
+    <file>Imagenes/II.png</file>
+    <file>Imagenes/III.png</file>
+    <file>Imagenes/IV.png</file>
+    <file>Imagenes/V.png</file>
+  </qresource>
+  <qresource prefix="MS_DIAL">
+    <file>Imagenes/Eri.png</file>
+    <file>Imagenes/Fio.png</file>
+    <file>Imagenes/Marco.png</file>
+    <file>Imagenes/Tarma.png</file>
+  </qresource>
+</RCC>
